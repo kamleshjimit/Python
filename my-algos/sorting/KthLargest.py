@@ -30,3 +30,6 @@ def findKthLargest(nums: list[int], k: int) -> int:
 if __name__ == "__main__":
     import doctest
     doctest.testmod()
+
+
+# c# - priority queue - min heap..  minimum elelment on root level
